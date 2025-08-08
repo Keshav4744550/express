@@ -17,6 +17,9 @@
   - [Security Issues](#security-issues)
   - [Running Tests](#running-tests)
 - [Current project team members](#current-project-team-members)
+
+# Apna College
+
   - [TC (Technical Committee)](#tc-technical-committee)
     - [TC emeriti members](#tc-emeriti-members)
   - [Triagers](#triagers)
